@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <div className="container">
-        <h1>We will buy everything you need for a masterpiece!</h1>
+        <h1>We will buy everything you need for a masterpiece!!!</h1>
         <AllCategories />
         <Cart/>
       </div>
