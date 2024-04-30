@@ -1,38 +1,105 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+body{
+  background-image: url('E:\F\Desktop\Redux\redux-project\close-up-detail-cozy-clothing-texture.jpg');
+  background-size: cover;
   min-height: 100vh;
+
+}
+
+.container{
+  background: linear-gradient(to bottom, #d4dca9, #ebf2ea) ;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  margin-top: 50px;
 }
 
-.App-link {
-  color: #61dafb;
+.containerTwo{
+  background: linear-gradient(to top, #d4dca9, #ebf2ea) ;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  flex:1
 }
+
+.product {
+  padding: 2%;
+  flex-grow: 1;
+  flex-basis: 20%;
+}
+
+h1, h2, h3 {
+    font-family: "Pinyon Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    font-family: "Quattrocento", serif;
+  }
+
+  .priceContainer {
+    font-weight: bold;
+    background: #ebf2ea;
+    padding: 10px;
+  }
+
+  .text {
+    background:#bf9d7a
+  }
+
+  .allGoods {
+    width: 150px;
+    height: 200px;
+    border: 3px solid #80add7;
+  }
+
+  .btn {
+    background: #0abda0;
+    font-family: "Quattrocento", serif;
+    font-size: 18px;
+    border: none;
+    margin: 10px;
+    padding: 10px;
+  }
+
+  .icon {
+    width: 50px
+  }
+
+  .iconTwo {
+    width: 20px;
+  }
+
+  .imgCart {
+    display: flex; 
+    justify-content: center;
+  }
+
+  .Selected  {
+    background: #0abda0;
+  }
+
+  .categoryButton {
+    margin: 5px
+  }
+
+  .categoryButton:hover {
+    background: #ebf2ea;
+  }
+
+  .total {
+    text-align: center;
+    border: solid 2px #0abda0;
+    margin-top:8px;
+    padding: 2px;
+  }
