@@ -5,6 +5,42 @@ body{
 
 }
 
+.Link {
+  padding: 15px;
+  text-decoration: none;
+  color:#1A1A1D;
+  margin: 5px;
+  font-family: "Pinyon Script", cursive;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+nav {
+  background: linear-gradient(to top, #bf9d7a, #ebf2ea) ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-top: 15px;
+  flex-wrap: wrap;
+}
+
+
+
+.foot {
+  text-decoration-line: none;
+  color: black;
+}
+
+.cont {
+  background: linear-gradient(to bottom, #bf9d7a, #ebf2ea) ;
+}
+
+li {
+  font-family: "Quattrocento", serif;
+  font-size: 20px;
+}
+
 .container{
   background: linear-gradient(to bottom, #d4dca9, #ebf2ea) ;
   display: flex;

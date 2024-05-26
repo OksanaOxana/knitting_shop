@@ -9,10 +9,12 @@ const selectedCategory = useSelector(getSelectedCategory)
 
     return(<div className="products">
         {dataGoods
-        .filter(good => {
+        .filter((good)=> {
             if(selectedCategory === 'all') return true
             return selectedCategory === good.category})
-            .map(good =><Good good ={good} />)}
+            .map((good, id) =>
+            <Good key={id}  good ={good} />)}
+
         </div>
     
     )

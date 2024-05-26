@@ -5,8 +5,9 @@ const AllCategories = () => {
     return(
         <div>
             <h2>What do you need?</h2>
-            {['threads','needles','samples', 'all'].map((category) => <Filter category = {category}/>)}
-          
+            <div >
+            {['threads','needles','samples', 'all'].map((category, id) => <Filter key={id} category = {category}/>)}
+            </div>
         </div>
     )
 }

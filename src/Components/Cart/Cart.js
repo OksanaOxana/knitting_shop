@@ -14,7 +14,9 @@ const Cart = () => {
             <div className="imgCart">
             <img className="icon" src={cart} alt='cart'/>
             </div>
-            {cartItems.map(cartItem => <CartItem   cartItem = {cartItem}/>)}
+        
+            {cartItems.map((cartItem, id) => <CartItem key={id} cartItem = {cartItem}/>)}
+        
         </div>
     )
 }
