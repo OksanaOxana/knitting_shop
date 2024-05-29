@@ -1,6 +1,8 @@
 function About() {
     return(
-        <div></div>
+        <div className="container">
+            <p>in developing</p>
+        </div>
     )
 }
 export default About;

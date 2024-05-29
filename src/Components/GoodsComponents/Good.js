@@ -4,14 +4,14 @@ import { addItemToCart } from "../../redux/cartSlice";
 import { useDispatch } from "react-redux";
 
 
-const Good = ({good, id}) => {
+const Good = ({good, idx}) => {
     const [quantity,setQuantity] = useState(1);
     const dispatch = useDispatch()
 
     return (
         <div className="products">
             <div className="product">
-                <div key={id} className="text">
+                <div key={idx} className="text">
                 <h2>{good.name}</h2>
                 <p className="priceContainer">$ {good.price}</p>
                 <img className="allGoods" src={`./${good.img}.jpg`} alt='pic'/>

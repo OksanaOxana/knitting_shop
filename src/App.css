@@ -25,8 +25,6 @@ nav {
   flex-wrap: wrap;
 }
 
-
-
 .foot {
   text-decoration-line: none;
   color: black;
@@ -74,68 +72,68 @@ li {
 }
 
 h1, h2, h3 {
-    font-family: "Pinyon Script", cursive;
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Pinyon Script", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 p {
-    font-family: "Quattrocento", serif;
+  font-family: "Quattrocento", serif;
   }
 
-  .priceContainer {
-    font-weight: bold;
-    background: #ebf2ea;
-    padding: 10px;
+.priceContainer {
+  font-weight: bold;
+  background: #ebf2ea;
+  padding: 10px;
   }
 
-  .text {
-    background:#bf9d7a
+.text {
+  background:#bf9d7a
   }
 
-  .allGoods {
-    width: 150px;
-    height: 200px;
-    border: 3px solid #80add7;
+.allGoods {
+  width: 150px;
+  height: 200px;
+  border: 3px solid #80add7;
   }
 
-  .btn {
-    background: #0abda0;
-    font-family: "Quattrocento", serif;
-    font-size: 18px;
-    border: none;
-    margin: 10px;
-    padding: 10px;
+.btn {
+  background: #0abda0;
+  font-family: "Quattrocento", serif;
+  font-size: 18px;
+  border: none;
+  margin: 10px;
+  padding: 10px;
   }
 
-  .icon {
-    width: 50px
+.icon {
+  width: 50px
   }
 
-  .iconTwo {
-    width: 20px;
+.iconTwo {
+  width: 20px;
   }
 
-  .imgCart {
-    display: flex; 
-    justify-content: center;
+.imgCart {
+  display: flex; 
+  justify-content: center;
   }
 
-  .Selected  {
-    background: #0abda0;
+.Selected  {
+  background: #0abda0;
   }
 
-  .categoryButton {
-    margin: 5px
+.categoryButton {
+  margin: 5px
   }
 
-  .categoryButton:hover {
-    background: #ebf2ea;
+.categoryButton:hover {
+  background: #ebf2ea;
   }
 
-  .total {
-    text-align: center;
-    border: solid 2px #0abda0;
-    margin-top:8px;
-    padding: 2px;
+.total {
+  text-align: center;
+  border: solid 2px #0abda0;
+  margin-top:8px;
+  padding: 2px;
   }
