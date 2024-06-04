@@ -7,7 +7,7 @@ const Filter = ({category}) => {
 
     return(
     <div>
-        <p key={category} onClick={() => {dispatch(filterCategory(category))}} className={selectedCategory === category ? 'categoryButton Selected' : 'categoryButton'}>{category}</p>
+        <p key={category.id} onClick={() => {dispatch(filterCategory(category))}} className={selectedCategory === category ? 'categoryButton Selected' : 'categoryButton'}>{category}</p>
     </div>
     )
 }

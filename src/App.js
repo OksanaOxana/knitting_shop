@@ -15,7 +15,6 @@ import Footer from "./Footer";
 
 function App() {
   return (
-    <div>
       <Router>
         <nav>
           <Link className="Link" to="/">Home</Link>
@@ -29,8 +28,6 @@ function App() {
         </Routes>
         <Footer />
       </Router>
-      
-    </div>
   );
 }
 

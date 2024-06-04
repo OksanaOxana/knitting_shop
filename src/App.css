@@ -137,3 +137,8 @@ p {
   margin-top:8px;
   padding: 2px;
   }
+
+  video {
+    border: 5px solid #ebf2ea;
+    padding: 20px;
+  }

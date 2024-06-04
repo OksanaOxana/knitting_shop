@@ -12,8 +12,8 @@ const selectedCategory = useSelector(getSelectedCategory)
         .filter((good)=> {
             if(selectedCategory === 'all') return true
             return selectedCategory === good.category})
-            .map((good, id) =>
-            <Good key={id}  good ={good} />)}
+            .map((good) =>
+            <Good key={good.id}  good ={good} />)}
 
         </div>
     

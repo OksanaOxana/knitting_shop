@@ -1,0 +1,11 @@
+.btn_tab {
+    padding: 5px;
+    font-family: "Quattrocento", serif;
+    border: solid 2px #bf9d7a;
+}
+
+.btn_tab:hover {
+    padding: 15px;
+    border: 2px solid #ebf2ea;
+    text-transform: uppercase;
+}
