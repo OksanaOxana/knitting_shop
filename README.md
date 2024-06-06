@@ -5,7 +5,7 @@
  <h3 align="center">Knitting shop</h3>
 <div align="center">
   <a href="https://github.com/OksanaOxana/knitting_shop">
-    <img src="https://github.com/OksanaOxana/knitting_shop/blob/main/src/photo_app.jpg" alt="Logo" width="200" height="250">
+    <img src="https://github.com/OksanaOxana/knitting_shop/blob/main/src/photo_app.jpg" alt="Logo" width="400" height="250">
   </a>
 </div> 
 
