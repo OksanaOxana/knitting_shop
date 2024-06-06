@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Title
 
-## Available Scripts
+ <h3 align="center">Knitting shop</h3>
+<div align="center">
+  <a href="https://github.com/OksanaOxana/knitting_shop">
+    <img src="https://github.com/OksanaOxana/knitting_shop/blob/main/src/photo_app.jpg" alt="Logo" width="200" height="250">
+  </a>
+</div> 
 
-In the project directory, you can run:
+### Built With
 
-### `npm start`
+* HTML/CSS
+* Bootstrap
+* JavaScript
+* GSAP
+* React
+* Redux
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- ABOUT THE PROJECT -->
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### About The Project
 
-### `npm test`
+This project - app "Knitting shop" is in developing.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Use the `BLANK_README.md` to get started.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- GETTING STARTED -->
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone the repo at [https://github.com/OksanaOxana/knitting_shop](https://github.com/OksanaOxana/knitting_shop)
+2. In the terminal you need to paste the copied link to the project
+3. Next, enter the cloned folder and open the code
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<!-- CONTACT -->
+## Contact
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+If you have any comments on my project, here are my contacts:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[Whatsapp](https://wa.me/+375299779119)
 
-### Code Splitting
+[Telegram](https://t.me/OxanaAksana)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+[oxi_butylova@mail.ru](https://oxi_butylova@mail.ru)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Project Link: [https://github.com/OksanaOxana/knitting_shop](https://github.com/OksanaOxana/knitting_shop)
